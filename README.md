@@ -1,2 +1,2 @@
-# vivacious
-A repo for vivacious fashion
+# Vivacious Fashion
+A repo for Vivacious Fashion! 
